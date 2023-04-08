@@ -1,5 +1,5 @@
 # Hello, world!
 
-I stidy in Netology
+I study in Netology
 04.04
 
